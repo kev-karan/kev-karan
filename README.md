@@ -20,7 +20,7 @@ I’m constantly learning, experimenting, and building small projects to improve
 ## 🎮 Game Development Focus
 
 - **Unity (C#)** — gameplay programming, prototypes, character controllers, UI  
-- Experience with **2D projects**, visual novel prototypes, and small gameplay systems  
+- Experience with **2D projects**, visual novel-style prototypes, and small gameplay systems  
 - Learning: physics, input systems, state machines, clean code for games  
 - Building small games to strengthen my portfolio and technical foundation
 
