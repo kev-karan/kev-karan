@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kelwin Karan
 
-<!--
-**kev-karan/kev-karan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 CESAR School Student | Software Developer | Python | Linux | Indie Dev in Training**  
+📍 Recife, Brazil
 
-Here are some ideas to get you started:
+<h4>Get in touch: <a href="mailto:kelwinkaran@gmail.com">kelwinkaran@gmail.com</a></h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+💡 My focus: 
+
+---
+
+## 🛠️ Tech Toolbox
+
+- **Languages & Frameworks**: 
+- **Cloud & Infrastructure**: 
+- **Databases**: 
+- **Other**: 
+
+---
+
+## 📈 GitHub Snapshot
+[![kev-karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev-karan)](https://github.com/kev-karan/github-readme-stats) [![kev-karan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-karan)](https://github.com/kev-karan/github-readme-stats)
