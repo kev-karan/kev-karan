@@ -10,8 +10,8 @@ Contact me at [kelwinkaran@gmail.com](mailto:kelwinkaran@gmail.com)
 
 ## 🌟 About Me
 
-I’m a **Computer Science student at CESAR School** with a growing focus on game development and general software development.  
-I enjoy creating interactive experiences in Unity while building strong programming fundamentals in my CS journey.
+I’m a **Computer Science student at CESAR School** with a growing focus on game development and software development in general.  
+I enjoy creating interactive experiences in Unity while strengthening my core programming fundamentals throughout my CS journey.
 
 I’m constantly learning, experimenting, and building small projects to improve both my technical and creative skills.
 
@@ -21,7 +21,7 @@ I’m constantly learning, experimenting, and building small projects to improve
 
 - **Unity (C#)** — gameplay programming, prototypes, character controllers, UI  
 - Experience with **2D projects**, visual novel-style prototypes, and small gameplay systems  
-- Learning: physics, input systems, state machines, clean code for games  
+- Currently learning: physics, input systems, state machines, and clean code practices for games  
 - Building small games to strengthen my portfolio and technical foundation
 
 ---
@@ -54,7 +54,7 @@ I’m constantly learning, experimenting, and building small projects to improve
 
 ## 🧩 What I'm Learning Now
 
-- Better architecture and workflow inside Unity  
+- Better architecture and workflow within Unity  
 - Strengthening core CS concepts: data structures, algorithms, OS basics  
 - Building small playable projects to grow practical experience  
 - Preparing for internships in software development or game development
