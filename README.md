@@ -1,26 +1,69 @@
 # 👋 Hi, I'm Kelwin Karan
 
-**🚀 CESAR School Student | Software Developer | Python | Linux | Indie Dev in Training**  
-📍 Recife, Brazil
+**🎮 Game Developer | 🧠 Software Developer | 🔧 Unity • Python • C# • Linux**  
+📍 Recife, Brazil  
+💼 Open to internships and collaborative projects
 
-<h4>Get in touch: <a href="mailto:kelwinkaran@gmail.com">kelwinkaran@gmail.com</a></h4>
+Contact me at [kelwinkaran@gmail.com](mailto:kelwinkaran@gmail.com)
 
 ---
 
 ## 🌟 About Me
 
-💡 My focus: 
+I’m a **Computer Science student at CESAR School** with a growing focus on game development and general software development.  
+I enjoy creating interactive experiences in Unity while building strong programming fundamentals in my CS journey.
+
+I’m constantly learning, experimenting, and building small projects to improve both my technical and creative skills.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🎮 Game Development Focus
 
-- **Languages & Frameworks**: 
-- **Cloud & Infrastructure**: 
-- **Databases**: 
-- **Other**: 
+- **Unity (C#)** — gameplay programming, prototypes, character controllers, UI  
+- Experience with **2D projects**, visual novel prototypes, and small gameplay systems  
+- Learning: physics, input systems, state machines, clean code for games  
+- Building small games to strengthen my portfolio and technical foundation
+
+---
+
+## 🧰 Tech Toolbox
+
+### **Languages**
+
+- **C#**, **Python**, **JavaScript**, **C/C++ (basics)**  
+- Learning different paradigms and improving overall problem-solving
+
+### **Frameworks & Engines**
+
+- **Unity**  
+- Godot (basics)
+
+### **Software Development**
+
+- Git & GitHub  
+- Linux (daily driver, comfortable with terminal)  
+- Writing clean, readable code  
+- Version control, small scripts, and personal tools
+
+### **Learning / Early Experience**
+
+- Basic SQL (SQLite)  
+- Introduction to algorithms, data structures, and CS fundamentals  
+
+---
+
+## 🧩 What I'm Learning Now
+
+- Better architecture and workflow inside Unity  
+- Strengthening core CS concepts: data structures, algorithms, OS basics  
+- Building small playable projects to grow practical experience  
+- Preparing for internships in software development or game development
 
 ---
 
 ## 📈 GitHub Snapshot
-[![kev-karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kev-karan)](https://github.com/kev-karan/github-readme-stats) [![kev-karan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev-karan)](https://github.com/kev-karan/github-readme-stats)
+
+<p>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=kev-karan&show_icons=true&rank_icon=github&custom_title=Kev's%20GitHub%20Stats&theme=dracula"/> 
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kev-karan&theme=dracula"/>
+</p>
