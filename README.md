@@ -65,5 +65,5 @@ I’m constantly learning, experimenting, and building small projects to improve
 
 <p allowed_elements: Allowed elements (p)>
   <img height="195" src="https://github-readme-stats-beryl-psi-43.vercel.app/api?username=kev-karan&show_icons=true&rank_icon=github&custom_title=Kev's%20GitHub%20Stats&theme=dracula"alt=""/>
-  <img height="195" src="https://github-readme-stats-beryl-psi-43.vercel.app/api/top-langs/?username=kev-karan&theme=dracula&hide=shaderlab,hlsl"alt=""/>
+  <img height="195" src="https://github-readme-stats-beryl-psi-43.vercel.app/api/top-langs/?username=kev-karan&theme=dracula"alt=""/>
 </p>
