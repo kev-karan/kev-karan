@@ -4,10 +4,9 @@
 📍 Recife, Brazil  
 💼 Open to internships and collaborative projects
 
-Contact me at [kelwinkaran@gmail.com](mailto:kelwinkaran@gmail.com) 
+**Contact:** [kevkaran@proton.me](mailto:kevkaran@proton.me)
 
-**Connect with me:**
-🔗 [LinkedIn](https://www.linkedin.com/in/kev-karan/) • 🎮 [Itch.io](https://kevkaran.itch.io/)
+**Connect:** 🔗 [LinkedIn](https://www.linkedin.com/in/kev-karan/) • 🎮 [Itch.io](https://kevkaran.itch.io/)
 
 ---
 
