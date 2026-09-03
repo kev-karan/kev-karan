@@ -1,71 +1,49 @@
 # 👋 Hi, I'm Kelwin Karan
 
-**🎮 Game Developer | 🧠 Software Developer | 🔧 Unity • Python • C# • Linux**  
-📍 Recife, Brazil  
-💼 Open to internships and collaborative projects
+**👨‍💻 Software Engineer | 🎮 Game Developer**
+📍 Recife, Brazil | 💼 Open to Internships
 
-**Contact:** [kevkaran@proton.me](mailto:kevkaran@proton.me)
-
-**Connect:** 🔗 [LinkedIn](https://www.linkedin.com/in/kev-karan/) • 🎮 [Itch.io](https://kevkaran.itch.io/)
+<div align="left">
+  <a href="mailto:kevkaran@proton.me">
+    <img src="https://img.shields.io/badge/Email-kevkaran@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kev-karan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kevkaran.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
+</div>
 
 ---
 
 ## 🌟 About Me
 
-I’m a **Computer Science student at CESAR School** with a growing focus on game development and software development in general.  
-I enjoy creating interactive experiences in Unity while strengthening my core programming fundamentals throughout my CS journey.
+I’m a **Computer Science student at CESAR School**, currently advancing through my third semester with a deep dive into Object-Oriented Programming and systems infrastructure. I bridge the gap between robust software architecture and interactive media, transforming complex logic into polished, user-centric applications and games. 
 
-I’m constantly learning, experimenting, and building small projects to improve both my technical and creative skills.
-
----
-
-## 🎮 Game Development Focus
-
-- **Unity (C#)** — gameplay programming, prototypes, character controllers, UI  
-- Experience with **2D projects**, visual novel-style prototypes, and small gameplay systems  
-- Currently learning: physics, input systems, state machines, and clean code practices for games  
-- Building small games to strengthen my portfolio and technical foundation
+Beyond coding, I have experience applying agile methodologies (CI/CD, BDD, E2E testing) to real-world development cycles.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Core Stack
 
-### **Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- **C#**, **Python**, **JavaScript**, **C/C++ (basics)**  
-- Learning different paradigms and improving overall problem-solving
-
-### **Frameworks & Engines**
-
-- **Unity**  
-- Godot (basics)
-
-### **Software Development**
-
-- Git & GitHub  
-- Linux (daily driver, comfortable with terminal)  
-- Writing clean, readable code  
-- Version control, small scripts, and personal tools
-
-### **Learning / Early Experience**
-
-- Basic SQL (SQLite)  
-- Introduction to algorithms, data structures, and CS fundamentals  
-
----
-
-## 🧩 What I'm Learning Now
-
-- Better architecture and workflow within Unity  
-- Strengthening core CS concepts: data structures, algorithms, OS basics  
-- Building small playable projects to grow practical experience  
-- Preparing for internships in software development or game development
-
----
-
-## 📈 GitHub Snapshot
-
-<p>
-  <img height="195" src="https://github-readme-stats-beryl-psi-43.vercel.app/api?username=kev-karan&show_icons=true&rank_icon=github&custom_title=Kev's%20GitHub%20Stats&theme=dracula"alt=""/>
-  <img height="195" src="https://github-readme-stats-beryl-psi-43.vercel.app/api/top-langs/?username=kev-karan&theme=dracula"alt=""/>
+<p align="center">
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=kev-karan&show_icons=true&rank_icon=github&custom_title=Kev's%20GitHub%20Stats&theme=dracula"alt=""/>
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kev-karan&theme=dracula"alt=""/>
 </p>
+
+---
+
+## 🏆 Featured Projects
+
+*   **[🏥 ARCA Gênesis](https://github.com/kev-karan/genesis):** A clinical decision-support WebApp for pediatric residents. Engineered for high reliability with CI/CD pipelines and End-to-End (E2E) automated testing.
+*   **[🎮 Ismália](#):** A narrative time-loop game built in Unity (C#). Currently incubated at the FORJA accelerator and exhibited at Rec'n'Play 2025.
+*   **[🚀 AstroKinetics](https://github.com/kev-karan/AstroKinetics):** A custom 2D arcade shooter built from scratch in C and Raylib. Features dynamic memory management, custom collision physics, and WebAssembly (WASM) cross-compilation.
+
+*🥇 **Hackathon Winner:** 1st Place at the Urban Climate Adaptation Hackathon (ARIES & CESAR School) for developing a validated technical solution addressing public health and environmental risks.*
